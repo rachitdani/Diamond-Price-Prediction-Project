@@ -1,6 +1,3 @@
-#Adding pur virtual envirnment
-diamond_project_venv/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+diamond_project_venv/
 
 # Spyder project settings
 .spyderproject
