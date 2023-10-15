@@ -63,7 +63,7 @@ class CustomData:
             }
 
             df = pd.DataFrame(custom_data_input_dict)
-            logging,info("DataFrame Gathered")
+            logging.info("DataFrame Gathered")
             return df
         
         except Exception as e:
