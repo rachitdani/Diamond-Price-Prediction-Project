@@ -1,6 +1,6 @@
 # Diamond Price Prediction
 
-This repository contains a diamond price prediction project for predicting the price of diamonds using the datasets input features : Carat, Depth, Table, x, y, z, Cut, Color and Clarity
+This repository contains a diamond price prediction project for predicting the price of diamonds using the datasets input features : Carat, Depth, Table, x, y, z, Cut, Color and Clarity.
 
 <br>Data set Link  : https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv
 <br>Dataset Information : Available in EDA under the notebooks folder
